@@ -1,2 +1,1 @@
-# eecs458
-EECS 458 - Introduction to Bioinformatics
+# EECS 458 - Introduction to Bioinformatics
