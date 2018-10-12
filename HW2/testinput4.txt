@@ -1,0 +1,4 @@
+l
+5 -3 -4
+CGTGAATTCAT
+GACTTAC

@@ -1,0 +1,4 @@
+l
+3 -3 -2
+TGTTACGG
+GGTTGACTA
